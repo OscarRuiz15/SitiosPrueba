@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.prueba.Vista.Activities.MainActivity">
+
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/ic_more_options"
+        android:title=""
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/action_info"
+                android:icon="@drawable/ic_info"
+                android:title="@string/action_informacion"
+                app:showAsAction="ifRoom" />
+
+            <item
+                android:id="@+id/action_limpiar_bd"
+                android:icon="@drawable/ic_clear_all"
+                android:title="@string/limpiar_bd"
+                app:showAsAction="ifRoom" />
+
+            <item
+                android:id="@+id/action_sincronizar"
+                android:icon="@drawable/ic_sync"
+                android:title="@string/sicronizar"
+                app:showAsAction="ifRoom" />
+
+            <item
+                android:id="@+id/action_servidor"
+                android:icon="@drawable/ic_server"
+                android:title="@string/servidor"
+                app:showAsAction="ifRoom" />
+        </menu>
+    </item>
+</menu>

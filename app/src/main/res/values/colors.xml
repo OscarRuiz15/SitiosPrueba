@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c853</color>
+    <color name="colorPrimaryDark">#009624</color>
+    <color name="colorAccent">#5efc82</color>
+
+    //////////////////
+    <color name="backgroun_card">#53292929</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="tertiary_text_dark">#808080</color>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sitios</string>
+    <string name="action_settings">Settings</string>
+
+    ///////////////
+    <string name="nombre">Nombre</string>
+    <string name="descripción">Descripción</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="agregar">Agregar</string>
+    <string name="campo_vacio">Este campo no puede estar vacío</string>
+    <string name="mapa_activity">Mapa</string>
+    <string name="limpiar_bd">Limpiar BD Local</string>
+    <string name="sicronizar">Sincronizar</string>
+    <string name="action_informacion">Datos Locales</string>
+    <string name="servidor">Datos Servidor</string>
+    <string name="tema2">Tema Oscuro</string>
+    <string name="tema1">Tema Claro</string>
+    <string name="not_found">No se encontraron resultados</string>
+
+</resources>
